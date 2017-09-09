@@ -16,3 +16,9 @@ As an example, consider the action we use to increase the font size when you pre
 1. Working 
 2. prepare
 3. repository
+
+### Concepto de git
+Es un software de control de versiones.
+
+### Concepto 2 de gif
+nueva modificacion
