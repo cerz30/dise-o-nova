@@ -22,3 +22,5 @@ Es un software de control de versiones.
 
 ### Concepto 2 de gif
 nueva modificacion
+### Detalle de git
+#### soy detalle de git
