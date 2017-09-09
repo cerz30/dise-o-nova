@@ -12,3 +12,7 @@ In all cases, the side effect is passed as the effect key in the action and late
 This means that you can override, compose or completely eliminate effects! In other words, this is how you can change the default functionality or behavior of the app.
 
 As an example, consider the action we use to increase the font size when you press Command+=:
+### zona de git 
+1. Working 
+2. prepare
+3. repository
