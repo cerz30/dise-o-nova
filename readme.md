@@ -24,8 +24,6 @@ Say what the step will be
 Give the example
 ```
 
-And repeat
-
 ```
 until finished
 ```
