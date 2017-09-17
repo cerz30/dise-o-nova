@@ -1,33 +1,87 @@
-{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf810
-{\fonttbl\f0\fnil\fcharset0 Menlo-Regular;\f1\fnil\fcharset0 Menlo-Bold;}
-{\colortbl;\red255\green255\blue255;\red198\green124\blue72;\red0\green61\blue204;\red0\green68\blue254;
-\red255\green39\blue18;\red0\green68\blue254;\red255\green255\blue255;}
-{\*\expandedcolortbl;;\csgenericrgb\c77800\c48800\c28400;\csgenericrgb\c0\c23922\c80000;\csgenericrgb\c0\c26667\c99608;
-\csgenericrgb\c100000\c15294\c7059;\csgenericrgb\c0\c26667\c99608;\csgenericrgb\c100000\c100000\c100000;}
-\paperw11900\paperh16840\margl1440\margr1440\vieww14140\viewh14260\viewkind0
-\deftab543
-\pard\tx543\pardeftab543\pardirnatural\partightenfactor0
+# Diseño Nova
 
-\f0\fs28 \cf2 \CocoaLigature0 \
-# \'93Nova\'94 Theme Landing Page (HTML)\
-\cf3 \
-Nova is a responsive HTML template, built on top of Bootstrap 4. \
-\
-\cf4 It is a freebie by\cf3  
-\f1\b \cf5 Webscope \cf4 -\cf5  
-\f0\b0 \cf6 https://webscopeapp.com : \
-\
-A  super easy and cool Client feedback tool. \cf7 \
-\cf2 \
-## License\
-\cf4 \
-Use it freely but please do not republish, distribute or sell "as-is". Please credit the designer and developer when you use it in your project.\cf3 \
-\cf2 \
-## Misc\cf7 \
-\
-\cf4 Check Out- https://webscopeapp.com\
-\
-Follow us on Twitter: {\field{\*\fldinst{HYPERLINK "https://twitter.com/webscopeapp"}}{\fldrslt https://twitter.com/webscopeapp}}\
-\
-Follow us on Facebook: {\field{\*\fldinst{HYPERLINK "https://www.facebook.com/webscopeapp/"}}{\fldrslt https://www.facebook.com/webscopeapp/}}\
-}
+One Paragraph of project description goes here
+
+## Getting Started
+
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+
+### Prerequisites
+
+What things you need to install the software and how to install them
+
+```
+Give examples
+```
+
+### Installing
+
+A step by step series of examples that tell you have to get a development env running
+
+Say what the step will be
+
+```
+Give the example
+```
+
+And repeat
+
+```
+until finished
+```
+
+End with an example of getting some data out of the system or using it for a little demo
+
+## Running the tests
+
+Explain how to run the automated tests for this system
+
+### Break down into end to end tests
+
+Explain what these tests test and why
+
+```
+Give an example
+```
+
+### And coding style tests
+
+Explain what these tests test and why
+
+```
+Give an example
+```
+
+## Deployment
+
+Add additional notes about how to deploy this on a live system
+
+## Built With
+
+* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
+* [Maven](https://maven.apache.org/) - Dependency Management
+* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+
+## Contributing
+
+Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
+
+## Versioning
+
+We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
+
+## Authors
+
+* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+
+See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+
+## Acknowledgments
+
+* Hat tip to anyone who's code was used
+* Inspiration
+* etc
