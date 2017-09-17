@@ -82,6 +82,7 @@ Nuestro diseño es gratuio, solo para el 2017
 
 ## Acknowledgments
 
-* Hat tip to anyone who's code was used
-* Inspiration
-* etc
+* html
+* CSS3
+* Javascript
+
