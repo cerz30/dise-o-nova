@@ -78,7 +78,7 @@ See also the list of [contributors](https://github.com/your/project/contributors
 
 ## License
 
-Nuestro diseño es gratuio.
+Nuestro diseño es gratuio, solo para el 2017
 
 ## Acknowledgments
 
